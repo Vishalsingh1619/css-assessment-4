@@ -163,6 +163,7 @@ h2{
 }
 
 .maindiv3{
+    overflow:hidden;
     height: 420px;
     width: 100%;
     border: 1px solid black;
